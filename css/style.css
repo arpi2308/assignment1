@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+@font-face {
+    font-family: "Booter - Zero Zero";
+    src: url("Fonts/Booter - Zero Zero.woff") format("woff"),
+         url("Fonts/Booter - Zero Zero.woff2") format("woff2");
+         /* #777 -  a shade of gray */
+    font-weight: normal;
+    font-style: normal;
+}
+* {
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+}
+.nav ul {
+    margin: 0;
+}
+.nav li {
+    display: inline;
+}
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+}
+.main-nav {
+    text-align: center;
+    font-size: 24px;
+    font-weight: lighter;
+    border-bottom: 2px solid rgba(255, 255, 255,.3)
+}
+.main-nav li {
+    padding: 0 5%;
+}
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .3)
+}
+.main-header {
+    background-color: rgba(0, 0, 0, .4);
+    background-image: url(../images/book.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+.brand-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
+    color: white;
+}
+.brand-name-large {
+    font-size: 8em;
+}
+.content-section {
+    margin: 1em;
+}
+.container {
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.container2 {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.section-header {
+    font-family: "Metal Mania";
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+    font-size: 2.5em;
+}
+.main-footer {
+    background-color: rgb(91, 113, 150);
+    color: white;
+    padding: .25em 0;
+    background-image: url(../images/joanna-kosinska-unsplash.jpg);
+}
+.main-footer-container {
+     display: flex;
+    align-items: center;
+}
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: right;
+}
+.footer-nav li {
+    padding: 0 .5em;
+}
+.footer-nav img {
+    width: 50px;
+    height: 30px;
+}
+.btn {
+    text-align: center;
+    /* vertical-align: left; */
+    padding: .67em .67em;
+    cursor: pointer;
+}
+.btn-primary {
+    color: white;
+    background-color: #56CCF2;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+}
+.btn-primary:hover {
+    background-color: #2D9CDB;
+}
+.shop-item {
+    margin: 30px;
+}
+.shop-item-image {
+    height: 350px;
+    width: 250px;
+}
+.shop-item-image2 {
+    height: 350px;
+    width: 400px;
+}
+.shop-item-details {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.shop-item-price {
+    flex-grow: 1;
+    color: #333;
+}
+.shop-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
