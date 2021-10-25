@@ -1,0 +1,111 @@
+[ { "Id" :"Fiction",
+    "fiction-items":[
+    {
+        "Id" :"harry",
+        "shop-item-image" :"images/harry.jpg",
+        "shop-item-price" :"Rs.322.00"
+    },
+    {
+        "Id": "dan",
+        "shop-item-image" :"images/dan.jpg",
+        "shop-item-price" :"Rs.330.00"
+    },
+    {
+        "Id" :"kite",
+        "shop-item-image" :"images/kite.jpg",
+        "shop-item-price" :"Rs.351.00"
+    },
+    {
+        "Id" :"gentleman",
+        "shop-item-image" :"images/gentleman.jpg",
+        "shop-item-price" :"Rs.259.00"
+    }]},
+ {"Id" :"AutoBio",
+    "auto-items":[
+    {
+        "Id" :"obama",
+        "shop-item-image" :"images/obama.jpg",
+        "shop-item-price" :"Rs.1099.00"
+     },
+    {
+        "Id" :"kalam",
+        "shop-item-image" :"images/kalam.jpg",
+        "shop-item-price" :"Rs.232.00"
+    },
+    {
+        "Id" :"sachi",
+        "shop-item-image" :"images/sachi.jpg",
+        "shop-item-price" :"Rs.299.00"
+    },
+    {
+        "Id" :"trevor",
+        "shop-item-image" :"images/trevor.jpg",
+        "shop-item-price" :"Rs.310.00"
+    }]},
+    {"Id" :"Selfhelp",
+        "self-items":[
+    {
+        "Id" :"habits",
+        "shop-item-image" :"images/habits.jpg",
+        "shop-item-price" :"Rs.699.00"
+    },
+    {
+        "Id" :"rich",
+        "shop-item-image" :"images/rich.jpg",
+        "shop-item-price" :"Rs.267.00"
+    },
+    {
+        "Id" :"atomichabit",
+        "shop-item-image" :"images/atomichabit.jpg",
+        "shop-item-price" :"Rs.423.00"
+    },
+    {
+        "Id" :"ikiagi",
+        "shop-item-image" :"images/ikiagi.jpg",
+        "shop-item-price" :"Rs.269.00"
+    }]},
+    {"Id" :"Crafts",
+        "craft-items":[
+    {
+        "Id" :"crochet",
+        "shop-item-image" :"images/crochet.jpg",
+        "shop-item-price" :"Rs.423.00"
+    },
+    {
+        "Id" :"scrap",
+        "shop-item-image" :"images/scrap.jpg",
+        "shop-item-price" :"Rs.355.00"
+    },
+    {
+        "Id" :"seeds",
+        "shop-item-image" :"images/seeds.jpg",
+        "shop-item-price" :"Rs.243.00"
+    },
+    {
+        "Id" :"crafts",
+        "shop-item-image" :"images/crafts.jpg",
+        "shop-item-price" :"Rs.534.00"
+    }]},
+    {"Id" :"Set",
+        "set-items":[
+    {
+        "Id" :"harrypotterset",
+        "shop-item-image" :"images/harrypotterset.jpg",
+        "shop-item-price" :"Rs.2337.00"
+    },
+    {
+        "Id" :"got",
+        "shop-item-image" :"images/got.jpg",
+        "shop-item-price" :"Rs.2429.00"
+    },
+    {
+        "Id" :"narnia",
+        "shop-item-image" :"images/narnia.jpg",
+        "shop-item-price" :"Rs.1015.00"
+    },
+    {
+        "Id" :"danset",
+        "shop-item-image" :"images/danset.jpg",
+        "shop-item-price" :"Rs.3250.00"
+    }
+]}]
