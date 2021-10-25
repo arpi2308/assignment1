@@ -1,5 +1,4 @@
-[ { "Id" :"Fiction",
-    "fiction-items":[
+[
     {
         "Id" :"harry",
         "shop-item-image" :"images/harry.jpg",
@@ -19,9 +18,7 @@
         "Id" :"gentleman",
         "shop-item-image" :"images/gentleman.jpg",
         "shop-item-price" :"Rs.259.00"
-    }]},
- {"Id" :"AutoBio",
-    "auto-items":[
+    },
     {
         "Id" :"obama",
         "shop-item-image" :"images/obama.jpg",
@@ -41,9 +38,7 @@
         "Id" :"trevor",
         "shop-item-image" :"images/trevor.jpg",
         "shop-item-price" :"Rs.310.00"
-    }]},
-    {"Id" :"Selfhelp",
-        "self-items":[
+    },
     {
         "Id" :"habits",
         "shop-item-image" :"images/habits.jpg",
@@ -63,9 +58,7 @@
         "Id" :"ikiagi",
         "shop-item-image" :"images/ikiagi.jpg",
         "shop-item-price" :"Rs.269.00"
-    }]},
-    {"Id" :"Crafts",
-        "craft-items":[
+    },
     {
         "Id" :"crochet",
         "shop-item-image" :"images/crochet.jpg",
@@ -85,9 +78,7 @@
         "Id" :"crafts",
         "shop-item-image" :"images/crafts.jpg",
         "shop-item-price" :"Rs.534.00"
-    }]},
-    {"Id" :"Set",
-        "set-items":[
+    },
     {
         "Id" :"harrypotterset",
         "shop-item-image" :"images/harrypotterset.jpg",
@@ -108,4 +99,4 @@
         "shop-item-image" :"images/danset.jpg",
         "shop-item-price" :"Rs.3250.00"
     }
-]}]
+]
